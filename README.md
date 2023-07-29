@@ -39,12 +39,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=srishtikumari2002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=srishtikumari2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-###
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/srishtikumari2002/srishtikumari2002/output/snake.svg" alt="Snake animation" />
-
-###
 
 ---
 [![](https://visitcount.itsvg.in/api?id=srishtikumari2002&icon=1&color=0)](https://visitcount.itsvg.in)
